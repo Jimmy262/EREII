@@ -47,7 +47,7 @@
     -webkit-touch-callout: none; }
   .owl-carousel .owl-item img {
     display: block;
-    width: 100%; }
+    width: 40%; }
   .owl-carousel .owl-nav.disabled,
   .owl-carousel .owl-dots.disabled {
     display: none; }
@@ -123,7 +123,8 @@
   transition: opacity 400ms ease; }
 
 .owl-carousel .owl-item img.owl-lazy {
-  transform-style: preserve-3d; }
+  transform-style: preserve-3d;
+  width: 50%; }
 
 /*
  * 	Owl Carousel - Video Plugin

@@ -59,7 +59,10 @@ http://www.templatemo.com/tm-515-eatery
   h5 {
     color: white;
   }
-
+.logo{
+  
+  width: 30% ;
+}
 
 
   /*---------------------------------------
@@ -148,7 +151,7 @@ http://www.templatemo.com/tm-515-eatery
   -----------------------------------------*/
 
   .section-btn {
-    background: #ce3232;
+    background: rgba(50,162,208);
     border-radius: 0;
     border: 0;
     color: #f9f9f9;
@@ -577,6 +580,7 @@ http://www.templatemo.com/tm-515-eatery
     position: relative;
     cursor: pointer;
     width: 102%;
+
   }
 
   .menu-thumb .menu-info {
