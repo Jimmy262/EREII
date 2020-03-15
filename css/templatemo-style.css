@@ -97,6 +97,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .section-title {
     padding-bottom: 40px;
+    text-align: center;
   }
 
   .section-title h2 {
@@ -569,6 +570,7 @@ http://www.templatemo.com/tm-515-eatery
   .menu-thumb img {
     width: 100%;
     transition: 0.5s;
+
   }
 
   .menu-thumb:hover img {
@@ -580,6 +582,8 @@ http://www.templatemo.com/tm-515-eatery
     position: relative;
     cursor: pointer;
     width: 102%;
+    justify-items: center;
+    align-content: center;
 
   }
 
